@@ -8,6 +8,8 @@ I'm a passionate frontend developer, currently learning backend development. I p
 
 I also created a Minecraft server called **heatexmc.net** (discontinued), and **sayrz.com** was a project I worked on (also discontinued).
 
+I also built **DeployZ** - a website deployment system built in Node.js (discontinued). We're now working on building a new version in Luau with more features.
+
 I offer free subdomains on **ix1g.owns-a.site** for anyone who needs one.
 
 ---
