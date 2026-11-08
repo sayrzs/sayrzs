@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi, my name is Omar. I'm the founder of [oriaxen.com](https://oriaxen.com).
+Hi, my name is Omar. I'm the founder of [tech-code.dev](https://tech-code.dev).
 
 I'm a passionate frontend developer, currently learning backend development. I previously contributed to **Ant Design** and helped **iraqbot.xyz** build their best dashboard design.
 
